@@ -1,0 +1,10 @@
+.env
+.streamlit/secrets.toml
+__pycache__/
+*.pyc
+.venv/
+venv/
+temp_image.*
+test_cooler.jpg
+sanity_output.txt
+.DS_Store
